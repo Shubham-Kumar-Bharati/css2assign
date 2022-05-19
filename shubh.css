@@ -1,0 +1,160 @@
+body{
+    background-image: url(./images.jpeg);
+    background-size: 100%;
+    border: 10px groove greenyellow;
+    height: 1850px;
+    
+}
+.edit1{
+    border: 7px solid rgb(224, 25, 25);
+    background-color: black;
+    height: 125px;
+    width: 25vw;
+    border-radius: 35px;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 30px;
+    text-align: center;
+}
+.edit2{
+    border: 7px solid rgb(224, 25, 25);
+    border-radius: 35px;
+    height: 50px;
+    width: 32vw;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    position: absolute;
+    top: 36px;
+    left: 260px;
+    text-align: center;
+}
+.edit3{
+    border: 7px solid rgb(224, 25, 25);
+    background-color: black;
+    color: white;
+    width: 27vw;
+    height: 135px;
+    border-radius: 40px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    position: absolute;
+    top: 20px;
+    left: 900px;
+    text-align: center;
+}
+.edit4{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(8, 143, 143);
+    padding: 50px;
+    border: 8px solid grey;
+    border-radius: 50%;
+    position: relative;
+    top: 450px;
+    left: -310px;
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 22px;
+}
+.hl{
+    width: 350px;
+    position: absolute;
+    top: 580px;
+    left: 60px;
+}
+.hl1{
+    width: 350px;
+    position: absolute;
+    top: 690px;
+    left: 60px;
+}
+.edit5{
+    width: 350px;
+    font-style: italic;
+    font-size: 20px;
+    position: absolute;
+    top: 615px;
+    left: 75px;
+    font-weight: bold;
+}
+.edit6{
+    width: 350px;
+    font-style: italic;
+    font-size: 18px;
+    position: absolute;
+    top: 735px;
+    left: 125px;
+    font-weight: bold;
+}
+.form1{
+    border: 5px dashed red;
+    background-color: white;
+    width: 350px;
+    height: 670px;
+    position: absolute;
+    top: 250px;
+    left: 700px;
+    text-align: center;
+    color: tomato;
+    font-weight: bold;
+}
+.edit7{
+    border: 5px solid rgb(224, 25, 25);
+    border-radius: 35px;
+    height: 70px;
+    width: 32vw;
+    text-align: center;
+    position: absolute;
+    top: 1000px;
+    left: 30vw;
+    font-size: 32px;
+    font-style: italic; 
+    background-color: black;
+    color: white;  
+}
+.hl3{
+    position: absolute;
+    top: 1080px;
+    width: 100vw;
+}
+.flex-container{
+    
+    display: inline-flex;
+    text-align: center;
+    flex-flow: row wrap;
+    font-size: 38px;
+    justify-content: space-evenly;
+    display: flex;
+    position: absolute;
+    top: 1150px;
+}
+.flex-item{
+    border: 4px solid green;
+    height: 300px;
+    width: 300px;
+
+    border-radius: 35px;
+    margin: 20px;
+    font-size: 20px;
+    background-color: aqua;
+    color: blue;
+}
+.font{
+    font-size: 30px;
+    font-weight: bold;
+}
+
